@@ -1,0 +1,500 @@
+ 1. Aachen
+2. Abidjan
+3. Abu Dhabi
+4. Abuja, Nigeria
+5. Acapulco, Mexico
+6. Accra, Ghana
+7. Adana
+8. Addis Ababa
+9. Adelaide
+10. Agadir, Morocco
+11. Agra
+12. Aleppo, Syria
+13. Alexandria, Egypt
+14. Algiers, Algeria
+15. Amman, Jordan
+16. Amsterdam
+17. Andorra La Vella
+18. Ankara
+19. Antalya
+20. Antananarivo, Madagascar
+21. Antigua, Guatemala
+22. Antwerp
+23. Apia, Samoa
+24. Ashgabat, Turkmenistan
+25. Asmara, Eritrea
+26. Astana
+27. Asuncion, Paraguay
+28. Athens
+29. Atlanta
+30. Auckland
+31. Austin
+32. Avignon
+33. Baghdad, Iraq
+34. Bahir Dar, Ethiopia
+35. Baku
+36. Bamako, Mali
+37. Bandar Seri Begawan, Brunei
+38. Bandung, Indonesia
+39. Bangkok
+40. Barcelona
+41. Barranquilla, Colombia
+42. Bath
+43. Batumi, Georgia
+44. Bcharre, Lebanon
+45. Beijing
+46. Beirut, Lebanon
+47. Belfast
+48. Belgrade
+49. Belo Horizonte, Brazil
+50. Bengaluru, India
+51. Benghazi, Libya
+52. Bergen
+53. Berlin
+54. Bern
+55. Bilbao
+56. Birmingham
+57. Bled
+58. Bloemfontein, South Africa
+59. Bogota
+60. Bologna
+61. Bordeaux
+62. Boston
+63. Bourges
+64. Brasilia
+65. Bratislava
+66. Brazzaville, Congo
+67. Bremen
+68. Bristol
+69. Brno
+70. Brussels
+71. Bucharest
+72. Budapest
+73. Buenos Aires
+74. Bukhara, Uzbekistan
+75. Bursa
+76. Busan
+77. Cairo
+78. Calgary
+79. Cali, Colombia
+80. Cambridge, England
+81. Canberra
+82. Cancun
+83. Canterbury
+84. Cape Town
+85. Caracas, Venezuela
+86. Carcassonne
+87. Cardiff
+88. Cartagena, Colombia
+89. Casablanca
+90. Catania, Italy
+91. Cebu City, Philippines
+92. Charlotte
+93. Chefchouen, Morocco
+94. Chengdu
+95. Chennai
+96. Chiang Mai
+97. Chiba, Japan
+98. Chicago
+99. Chittagong
+100. Chongqing
+101. Christchurch, New Zealand
+102. Cluj-Napoca, Romania
+103. Coimbra
+104. Cologne
+105. Colombo, Sri Lanka
+106. Copenhagen
+107. Cordoba, Argentina
+108. Cordoba, Spain
+109. Corfu
+110. Corinth, Greece
+111. Cork, Ireland
+112. Craiova, Romania
+113. Curitiba, Brazil
+114. Cuzco, Peru
+115. Daegu, South Korea
+116. Daejeon, South Korea
+117. Dakar
+118. Dalian, China
+119. Dallas
+120. Damascus
+121. Dar Es Salaam
+122. Delhi
+123. Denpasar, Bali
+124. Denver
+125. Detroit
+126. Dhaka, Bangladesh
+127. Dinant
+128. Da Nang, Vietnam
+129. Dodoma, Tanzania
+130. Doha
+131. Douala, Cameroon
+132. Dubai
+133. Dublin
+134. Dubrovnik
+135. Durban, South Africa
+136. Düsseldorf
+137. Edinburgh
+138. Eilat, Israel
+139. Eindhoven
+140. Esfahan
+141. Faisalabad, Pakistan
+142. Faro
+143. Fes, Morocco
+144. Florence
+145. Fortaleza, Brasil
+146. Frankfurt Am Main
+147. Fukuoka, Japan
+148. Funchal, Madeira
+149. Fuzhou
+150. Gaborone, Botswana
+151. Galle
+152. Galway, Ireland
+153. Gaziantep, Turkey
+154. Gdansk
+155. Geneva
+156. Genoa
+157. Ghent
+158. Gibraltar
+159. Giza
+160. Glasgow
+161. Gold Coast
+162. Goreme, Turkey
+163. Gothenburg
+164. Granada, Nicaragua
+165. Granada, Spain
+166. Graz
+167. Graz
+168. Guadalajara
+169. Guayaquil, Ecuador
+170. Gwangju, South Korea
+171. The Hague
+172. Haifa, Israel
+173. Hamburg
+174. Hangzhou
+175. Hanoi
+176. Harare, Zimbabwe
+177. Harbin, China
+178. Havana
+179. Helsinki
+180. Heraklion, Crete
+181. Hiroshima
+182. Ho Chi Minh City, Vietnam
+183. Hong Kong
+184. Honolulu
+185. Houston
+186. Hurghada, Egypt
+187. Hyderabad
+188. Iasi, Romania
+189. Ibadan, Nigeria
+190. Incheon
+191. Innsbruck
+192. Inverness
+193. Islamabad, Pakistan
+194. Istanbul
+195. Izmir, Turkey
+196. Jaipur
+197. Jakarta
+198. Jeddah
+199. Jeju City, South Korea
+200. Jerusalem
+201. Johannesburg
+202. Kabul
+203. Kampala
+204. Kano, Nigeria
+205. Kaohsiung, Taiwan
+206. Karachi
+207. Kathmandu
+208. Katowice, Poland
+209. Kaunas, Lithuania
+210. Kazan
+211. Kharkiv, Ukraine
+212. Khartoum, Sudan
+213. Kiev
+214. Kinshasa, Democratic Republic of the Congo
+215. Kobe
+216. Kolkata
+217. Kosice, Slovakia
+218. Kotor
+219. Krakow
+220. Krasnodar
+221. Kuala Lumpur
+222. Kumasi, Ghana
+223. Kuwait City
+224. Kyoto
+225. Lagos, Nigeria
+226. Lahore
+227. Langkawi, Malaysia
+228. Las Vegas
+229. Lausanne
+230. Leeds, England
+231. Lhasa, Tibet
+232. Libreville, Gabon
+233. Lille
+234. Lima
+235. Linz
+236. Lisbon
+237. Liverpool
+238. Ljubljana
+239. Lodz
+240. London
+241. Los Angeles
+242. La Paz
+243. La Romana
+244. Luanda, Angola
+245. Lublin
+246. Lubumbashi, Democratic Republic of the Congo
+247. Lucerne
+248. Lucknow, India
+249. Lusaka, Zambia
+250. Luxemburg
+251. Luxor
+252. Lyon
+253. Maastricht
+254. Macau
+255. Madrid
+256. Madurai
+257. Malaga
+258. Male, Maldives
+259. Malindi, Kenya
+260. Malmo, Sweden
+261. Managua, Nicaragua
+262. Manama, Bahrain
+263. Manchester
+264. Mandalay, Myanmar
+265. Manila
+266. Maputo Mozambique
+267. Mar Del Plata, Argentina
+268. Maracaibo
+269. Marrakech
+270. Marsa Alam, Egypt
+271. Marseilles
+272. Mashhad
+273. Mecca
+274. Medan, Indonesia
+275. Medellin, Colombia
+276. Medina, Saudi Arabia
+277. Melbourne
+278. Mexico City
+279. Miami
+280. Milan
+281. Minsk
+282. Mogadishu, Somalia
+283. Mombasa, Kenya
+284. Monaco
+285. Monastir, Tunisia
+286. Montego Bay, Jamaica
+287. Monterrey
+288. Montevideo
+289. Montpellier, France
+290. Montreal
+291. Moscow
+292. Mostar
+293. Mumbai
+294. Munich
+295. Muscat
+296. Nadi, Fiji
+297. Nagoya, Japan
+298. Naha, Okinawa, Japan
+299. Nairobi
+300. Nancy
+301. Nanning
+302. Nantes
+303. Naples
+304. Nassau, Bahamas
+305. Naypyidaw, Myanmar
+306. Ndjamena
+307. New Orleans
+308. New Taipei City
+309. New York
+310. Newcastle Upon Tyne
+311. Newcastle, Australia
+312. Nice
+313. Nicosia
+314. Nizhny Novgorod
+315. Nouakchott, Mauritania
+316. Novi Sad, Serbia
+317. Novosibirsk, Russia
+318. Nuremberg
+319. Nuuk, Greenland
+320. Odessa
+321. Oia Santorini
+322. Okayama
+323. Omsk
+324. Oran, Algeria
+325. Osaka
+326. Oslo
+327. Ostrava
+328. Ottawa
+329. Ouagadougou, Burkina Faso
+330. Oxford
+331. Padua, Italy
+332. Palermo
+333. Palma De Mallorca
+334. Panama City
+335. Papeete, French Polynesia
+336. Paphos
+337. Paris
+338. Parma
+339. Paro, Bhutan
+340. Paros, Greece
+341. Pattaya
+342. Perth
+343. Philadelphia
+344. Phnom Penh, Cambodia
+345. Phoenix
+346. Phuket, Thailand
+347. Pisa
+348. Port Au Prince
+349. Port Elizabeth, South Africa
+350. Port Harcourt, Nigeria
+351. Port Louis, Mauritius
+352. Port Moresby, Papua New Guinea
+353. Port Said
+354. Port Sudan, Sudan
+355. Port Vila, Vanuatu
+356. Portland
+357. Porto
+358. Porto Alegre
+359. Portofino, Italy
+360. Positano
+361. Potsdam
+362. Prague
+363. Praia, Cape Verde
+364. Pretoria
+365. Puebla
+366. Puerto Princesa, Philippines
+367. Puerto Vallarta, Mexico
+368. Punta Arenas, Chile
+369. Punta Cana
+370. Punta Del Este, Uruguay
+371. Putrajaya, Malaysia
+372. Pyongyang
+373. Quebec City
+374. Quezon City, Philippines
+375. Quito
+376. Rabat, Morocco
+377. Recife, Brazil
+378. Regensburg, Germany
+379. Reims
+380. Reykjavik, Iceland
+381. Riga
+382. Rijeka, Croatia
+383. Rio De Janeiro
+384. Riyadh
+385. Rome
+386. Rosario, Argentina
+387. Rostov-On-Don, Russia
+388. Rotterdam
+389. Rouen
+390. Rovaniemi
+391. Saint Petersburg
+392. Salalah, Oman
+393. Salamanca
+394. Salvador Da Bahia, Brazil
+395. Salzburg
+396. Samarkand, Uzbekistan
+397. San Diego
+398. San Fransisco
+399. San Gimignano
+400. San Jose, Costa Rica
+401. San Juan, Puerto Rico
+402. San Marino
+403. Sana'a, Yemen
+404. Santa Cruz De Tenerife
+405. Santiago De Compostela
+406. Santiago De Cuba
+407. Santiago, Chile
+408. Santo Domingo, Dominican Republic
+409. Sao Paulo, Brazil
+410. Sapporo, Japan
+411. Sarajevo
+412. Seattle
+413. Sendai
+414. Seoul
+415. Sevastopol, Crimea
+416. Seville
+417. Sfax, Tunisia
+418. Shanghai
+419. Sharjah
+420. Sharm El-Sheikh
+421. Shenyang
+422. Shenzhen
+423. Shiraz, Iran
+424. Siem Reap
+425. Siena
+426. Singapore
+427. Sintra
+428. Sofia
+429. Split
+430. St Denis Reunion
+431. St Louis
+432. Stockholm
+433. Strasbourg
+434. Surat
+435. Suva, Fiji
+436. Sydney
+437. Tabriz, Iran
+438. Taichung, Taiwan
+439. Taipei
+440. Tallinn
+441. Tampere
+442. Tangier, Morocco
+443. Tarragona
+444. Tashkent, Uzbekistan
+445. Tbilisi
+446. Tehran, Iran
+447. Tel Aviv
+448. Thessaloniki
+449. Thimphu, Bhutan
+450. Tianjin
+451. Timisoara
+452. Tirana
+453. Tokyo
+454. Toledo
+455. Toronto
+456. Toulouse, France
+457. Tours
+458. Tripoli, Libya
+459. Tromsø
+460. Trondheim
+461. Tula
+462. Tunis
+463. Turin
+464. Ulaanbaatar, Mongolia
+465. Ushuaia, Argentina
+466. Vaduz
+467. Valencia
+468. Valletta, Malta
+469. Valparaiso, Chile
+470. Vancouver
+471. Vatican City
+472. Venice
+473. Veracruz
+474. Verona
+475. Versailles
+476. Victoria, Seychelles
+477. Vienna
+478. Vientiane, Laos
+479. Vilnius
+480. Vladimir, Russia
+481. Vladivostok, Russia
+482. Volgograd, Russia
+483. Warsaw
+484. Washington DC
+485. Wellington
+486. Windhoek, Namibia
+487. Wroclaw
+488. Wuhan
+489. Xiamen
+490. Xian, China
+491. Yangon, Myanmar
+492. Yaoundé, Cameroon
+493. Yerevan
+494. Yogyakarta, Indonesia
+495. Yokohama
+496. York
+497. Zagreb
+498. Zanzibar
+499. Zaragoza, Spain
+500. Zurich

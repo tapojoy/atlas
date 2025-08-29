@@ -1,4 +1,4 @@
-### Status
+### Status:
 
 The following table summarizes the progress made with the tasks:
 
@@ -29,6 +29,7 @@ The following unordered list represents the files and folders in this repository
 ├── notebook_3_link_prediction.ipynb           // link prediction task
 ├── notebook_4_community_detection.ipynb       // community detection task
 ├── README.md
+├── report.pdf
 ├── requirements.txt
 ```
 
@@ -37,5 +38,4 @@ The following unordered list represents the files and folders in this repository
 ```console
 terminal:~$ pip install -r requirements.txt
 terminal:~$ jupyter notebook
-
 ```
